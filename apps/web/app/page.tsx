@@ -1,4 +1,4 @@
-import { type ReactNode } from "react";
+import "react";
 
 export default function Home() {
   return (
